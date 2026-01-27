@@ -1,1 +1,1 @@
-hobbies: singing, dancing
+hobbies: singing, dancing.
